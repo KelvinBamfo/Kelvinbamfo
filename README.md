@@ -1,7 +1,7 @@
 # 🧠 Kelvin Bamfo — Frontend Engineer
 
 ## 👋 About Me
-I’m an aspiring Fullstack Engineer on a focused path to build scalable digital solutions that reflect both innovation and African identity. I blend technical curiosity with strong soft skills—adaptability, communication, collaboration—to navigate team environments and drive progress.
+I’m an aspiring Frontend Engineer on a focused path to build scalable digital solutions that reflect both innovation and African identity. I blend technical curiosity with strong soft skills—adaptability, communication, collaboration—to navigate team environments and drive progress.
 
 *Learning with purpose. Growing through collaboration. Creating with culture.*
 
